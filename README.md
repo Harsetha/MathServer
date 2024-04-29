@@ -41,7 +41,7 @@ Publish the website in the given URL.
 <style type="text/css">
 body 
 {
-background-color:orange;
+background-color:blue;
 }
 .edge {
 width: 1440px;
@@ -75,7 +75,7 @@ padding-top: 20px;
 <body>
 <div class="edge">
 <div class="box">
-DHANUSHA K (212223040034)
+HARSETHA J (212223220032)
 <h1>Surface Area of cylinder</h1>
 <form method="POST">
 {% csrf_token %}
